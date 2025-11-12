@@ -1,4 +1,4 @@
-package com.atenhub.eurekaserver;
+package com.athenhub.eurekaserver;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
